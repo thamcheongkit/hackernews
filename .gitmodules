@@ -1,0 +1,3 @@
+[submodule "src/hackernews-swift3"]
+	path = src/hackernews-swift3
+	url = https://github.com/thamcheongkit/hackernews-swift3.git
